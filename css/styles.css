@@ -84,7 +84,7 @@ body {
 }
 
 .home-content h3 span {
-	color: #FEE715;
+	color: hwb(231 8% 0%);
 }
 
 .home-content h1 {
@@ -114,10 +114,10 @@ body {
 	justify-content: center;
 	align-items: center;
 	background: transparent;
-	border: 2px solid #FEE715;
+	border: 2px solid hwb(231 8% 0%);
 	border-radius: 50%;
 	font-size: 20px;
-	color: #FEE715;
+	color: hwb(231 8% 0%);
 	text-decoration: none;
 	margin-right: 15px;
 	transition: background .5s easse, color .5s ease, box-shadow .5s ease;
@@ -126,20 +126,20 @@ body {
 }
 
 .social-media a:hover {
-	background: #FEE715;
+	background: hwb(231 8% 0%);
 	color: #1f242d;
-	box-shadow: 0 0 20px #FEE715;
+	box-shadow: 0 0 20px hwb(231 8% 0%);
 }
 
 .btn {
 	display: inline-block;
 	padding: 12px 28px;
-	background: #FEE715;
+	background: hwb(208 39% 12%);
 	border-radius: 40px;
-	box-shadow: 0 0 10px #FEE715;
+	box-shadow: 0 0 10px hwb(231 8% 0%);
 	font-size: 16px;
 	color: #1f242d;
-	latter-spacing: 1px;
+	letter-spacing: 1px;
 	text-decoration: none;
 	font-weight: 600;
 	margin-top: 20px;
